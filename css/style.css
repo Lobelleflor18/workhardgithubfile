@@ -119,3 +119,7 @@ max-width: 1100px;
 #about h2 {
   color: #ffb740;
 }
+
+#about i {
+  margin-bottom: 10px;
+}
